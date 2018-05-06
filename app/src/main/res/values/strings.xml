@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dragon Ball Quiz</string>
+    <string name="question1">1. What is the latest Dragon Ball series ?</string>
+    <string name="question2">2. Who is your favorite male character ?</string>
+    <string name="question3">3. Who is your favorite female character ?</string>
+    <string name="question4">4. Who is the father of pan ?</string>
+    <string name="question5">5. Who is the father of Goku ?</string>
+</resources>
